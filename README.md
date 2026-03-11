@@ -11,7 +11,8 @@ FDN-docs/
 │   └── vaults.md               Vault specifications
 │
 ├── security/
-│   └── security-policy.md      Vulnerability reporting
+│   ├── security-policy.md      Vulnerability reporting
+│   └── audit-status.md         Audit status and reports
 │
 ├── legal/
 │   ├── terms-of-service.md     Platform terms of service
